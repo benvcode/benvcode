@@ -6,6 +6,8 @@ teaching include (C/C++, Java, Python).
 - 📫 How to reach me: benvxavier@gmail.com or [LinkedIn](https://www.linkedin.com/in/benvindo-xavier-07935a268/).
 - 👯 I’m open to collaborate to learn, share and grow.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benvcode&show_icons=true)
+
 
 <!---
 benvcode/benvcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
