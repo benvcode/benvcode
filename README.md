@@ -7,6 +7,11 @@ I'm a **Software Developer - Backend** passionate about reading and writing, alw
 - 👯 I’m open to collaborate to learn, share and grow.
 - 📫 How to reach me: benvxavier@gmail.com or [LinkedIn](https://www.linkedin.com/in/benvindo-xavier-07935a268/).
 
+
+<img src="https://komarev.com/ghpvc/?username=SaraTuma&color=red" alt="BenvXavier views" />
+
+
+
 <!---
 benvcode/benvcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
