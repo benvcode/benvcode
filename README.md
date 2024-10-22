@@ -1,13 +1,10 @@
 ## Hi there, I´m Benvindo Xavier<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-I'm Software Developer - Backend, passionate about reading and writing. Some programming languages i enjoy working with and
-teaching include (C/C++, Java, Python).
+I'm a **Software Developer - Backend** passionate about reading and writing, always eager to learn more!
 
 - 📫 How to reach me: benvxavier@gmail.com or [LinkedIn](https://www.linkedin.com/in/benvindo-xavier-07935a268/).
 - 👯 I’m open to collaborate to learn, share and grow.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benvcode&show_icons=true)
-
+- 🧑‍🎓 Bachelor in Computer Science by Catholic University Of Angola.
 
 <!---
 benvcode/benvcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
