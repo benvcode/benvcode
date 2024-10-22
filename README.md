@@ -8,7 +8,7 @@ I'm a **Software Developer - Backend** passionate about reading and writing, alw
 - 📫 How to reach me: benvxavier@gmail.com or [LinkedIn](https://www.linkedin.com/in/benvindo-xavier-07935a268/).
 
 
-<img src="https://komarev.com/ghpvc/?username=benvcode&color=red" alt="BenvXavier views" />
+<!--<img src="https://komarev.com/ghpvc/?username=benvcode&color=red" alt="BenvXavier views" />-->
 
 
 
